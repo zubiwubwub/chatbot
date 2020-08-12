@@ -1,0 +1,13 @@
+.App  {
+  display: flex;
+  display: column;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.app-container {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+}
+
